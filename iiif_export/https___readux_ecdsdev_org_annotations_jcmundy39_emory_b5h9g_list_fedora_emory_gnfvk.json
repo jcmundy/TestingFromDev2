@@ -52,6 +52,41 @@
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "language": "en",
+                "@type": "dctypes:Text",
+                "chars": "<p>test</p>",
+                "format": "text/html"
+            },
+            "motivation": "oa:commenting",
+            "on": {
+                "within": {
+                    "@type": "sc:Manifest",
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest"
+                },
+                "@type": "oa:SpecificResource",
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/canvas/fedora:emory:gnfvk",
+                "selector": {
+                    "value": "xywh=916,416,24,35",
+                    "item": {
+                        "default": {
+                            "value": "xywh=916,416,24,35",
+                            "@type": "oa:FragmentSelector"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M927.88477,451.03904c0,-7.87154 3.93577,-15.74307 11.8073,-23.61461c0,-6.52099 -5.28631,-11.8073 -11.8073,-11.8073c-6.52099,0 -11.8073,5.28631 -11.8073,11.8073c7.87154,7.87154 11.8073,15.74307 11.8073,23.61461z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_ecda1164-fc72-4c87-9974-c7346bcfdb4d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice"
+                    },
+                    "@type": "oa:FragmentSelector"
+                }
+            },
+            "@type": "oa:Annotation",
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "@id": "d038ceb7-2a1a-443d-b92a-ccf3eda1a0a2"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "resource": [
                 {
                     "language": "en",
