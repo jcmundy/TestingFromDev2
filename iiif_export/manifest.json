@@ -12,7 +12,7 @@
         "https://readux.ecdsdev.org/collection/african-american-literature",
         "https://readux.ecdsdev.org/collection/some:pid"
     ],
-    "description": "x",
+    "description": "Testing a link. www.google.com",
     "label": "Black Jacob,\" a monument of grace the life of Jacob Hodges, an African Negro, who died in Canandaigua, N.Y., February 1842 /",
     "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
     "attribution": "Emory University Libraries",
@@ -58,7 +58,7 @@
             "label": "Annotators"
         },
         {
-            "value": "2020-03-09T21:00:46.200",
+            "value": "2020-03-31T21:31:06.149",
             "label": "Export Date"
         }
     ],

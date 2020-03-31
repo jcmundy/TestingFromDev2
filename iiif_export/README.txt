@@ -1,6 +1,6 @@
 Annotation export from Readux v2 at https://readux.ecdsdev.org
 edition type: Readux IIIF Exported Edition
-export date: 2020-03-09 21:00:46.200546 UTC
+export date: 2020-03-31 21:31:06.149223 UTC
 
 volume title: Black Jacob," a monument of grace the life of Jacob Hodges, an African Negro, who died in Canandaigua, N.Y., February 1842 /
 volume author: x
